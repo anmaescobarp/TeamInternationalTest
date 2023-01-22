@@ -1,0 +1,30 @@
+[
+  {
+    "Software Solutions Labels": "Logistics & Transportation,Oil & Gas,Telecom,Technology & Innovation,Financial Services,Healthcare & Life Sciences,Travel & Hospitality,Retail & Ecommerce,Digital Marketing",
+    "Page Titles expected": "Logistics and Transportation,Oil & Gas,Telecom,Technology,Financial Services,Healthcare,Hospitality,Retail,Digital Marketing "
+  },
+  {
+    "Innovative IT Labels": "Software Development Outsourcing,Automation Services,Software QA & Testing,Microsoft Services,Professional IT Consulting,Data Analytics Services,Managed IT Services",
+    "Page Titles expected": "Software Development,Automation,QA,Microsoft,Professionals,Data Analytics,IT Services"
+  },
+  {
+    "Locations Labels": "UNITED STATES,PORTUGAL,MEXICO,COLOMBIA,ARGENTINA,POLAND,UKRAINE",
+    "Page URL": "locations/#us,locations/#portugal,locations/#mexico,locations/#colombia,locations/#argentina,locations/#poland,locations/#ukraine"
+  },
+  {
+    "Top Gun Labels": "PROFESSIONAL JAVASCRIPT,.NET PROGRAMMING",
+    "Page Title expected": "Education"
+  },
+  {
+    "Page Title of Empower Career": "Careers"
+  },
+  {
+    "Contact Sales Message": "THANK YOU FOR CONTACTING US!",
+    "First Name": "Andres M",
+    "Last Name": "Escobar",
+    "Company": "Team International",
+    "Email": "andrestest@test.com",
+    "Phone": "32178899008",
+    "MessageForTeam": "Hi Team, this is an automation script test"
+  }
+]
