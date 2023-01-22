@@ -43,11 +43,14 @@ namespace TeamInternationalWeb.Tests
         {
             // Get expected Info from JSON file
             List<Dictionary<string, string>> expectedBehaviors = ExpectedBehaviorsclass.ExpectedBehaviors;
-
+            
+            
+            // TEST FIRST SECTION:
+           
             Dictionary<string, string> expectedSolutionServicesValues = expectedBehaviors.Where(x => x.ContainsKey("Software Solutions Labels")).First().ToDictionary(x => x.Key, x => x.Value);
             List<string> expectedLabelsforSS = expectedSolutionServicesValues["Software Solutions Labels"].Split(',').ToList();
             List<string> expectedPageTitlesforSS = expectedSolutionServicesValues["Page Titles expected"].Split(',').ToList();
-
+            
             // Go To Team Internation file
             testinit.Goto();
             // Validation of Labels
