@@ -24,7 +24,6 @@ namespace TeamInternationalWeb.Tests
         private readonly EmpowerCareerPage testEmpowerCareers;
         private readonly ContactSalesPage testContactSales;
 
-        //public static BatchDto Parse(string source) => JsonConvert.DeserializeObject<string>(source);
 
         public TeamInternationTest()
         {
